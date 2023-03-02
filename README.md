@@ -13,3 +13,5 @@ This repository contains a README generator that generates a README file based o
 
 
 ## Video Demo
+
+[Readme-gen.webm](https://user-images.githubusercontent.com/119918403/222344361-51b7eda5-bbb1-4e37-9efc-c3ae950223ec.webm)
