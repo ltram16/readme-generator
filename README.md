@@ -4,6 +4,9 @@ This repository contains a README generator that generates a README file based o
 
 ## Screenshot
 
+<img width="738" alt="Screenshot 2023-03-01 at 8 23 38 PM" src="https://user-images.githubusercontent.com/119918403/222335233-bde2a19b-8bd7-4bbf-b753-b141a7420df9.png">
+
+
 ## README Sample
 
 ## Video Demo
